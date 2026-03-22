@@ -2,6 +2,8 @@
 
 Personal developer portfolio built with **Next.js 14** (App Router), **React**, **TypeScript**, **Tailwind CSS**, and a **Three.js** hero scene. It presents featured projects, skills, experience, and a working contact form backed by **Resend**.
 
+#LIVE LINK: zec.nedim13@gmail.com
+
 ## Features
 
 - **Immersive hero** — Full-viewport WebGL particle field and animated geometry with a custom cursor
