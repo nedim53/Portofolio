@@ -2,7 +2,7 @@
 
 Personal developer portfolio built with **Next.js 14** (App Router), **React**, **TypeScript**, **Tailwind CSS**, and a **Three.js** hero scene. It presents featured projects, skills, experience, and a working contact form backed by **Resend**.
 
-#LIVE LINK: zec.nedim13@gmail.com
+#LIVE LINK: https://portofolio-nu-lilac.vercel.app/
 
 ## Features
 
